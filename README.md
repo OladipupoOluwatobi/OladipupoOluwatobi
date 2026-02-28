@@ -31,8 +31,10 @@
 ![Oracle Data Modeler](https://img.shields.io/badge/SQL%20Data%20Modeler-F80000?style=flat&logo=oracle&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 ---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OladipupoOluwatobi&show_icons=true&theme=default)
 <!--
 **OladipupoOluwatobi/OladipupoOluwatobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
