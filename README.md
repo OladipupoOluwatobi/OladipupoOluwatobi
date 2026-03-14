@@ -4,7 +4,7 @@
 🌍 International Student passionate about turning data into insights  
 🔭 Currently learning: Machine Learning, Deep Learning, Data Visualization  
 🌱 Building projects in Python, SQL, and scikit-learn  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/oluwatobi-oladipupo-422ab5289/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/oluwatobi-oluwaseyi-oladipupo)
 
 ---
 
